@@ -1,2 +1,1 @@
-# new-web-project
-my first project
+# Amazon_Clone
